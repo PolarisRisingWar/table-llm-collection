@@ -3,6 +3,8 @@ Collection of works related to table. This includes table question answering and
 
 # 论文
 ## 2024年
+1. Table LLM综述
+    1. [Large Language Models(LLMs) on Tabular Data: Prediction, Generation, and Understanding - A Survey](https://stewarthu.com/papers/LLM-on-tabular-data.pdf)
 1. table-based QA
     1. (Neurocomputing) [KFEX-N : A table-text data question-answering model based on knowledge-fusion encoder and EX-N tree decoder](https://www.sciencedirect.com/science/article/abs/pii/S0925231224005666)
 
