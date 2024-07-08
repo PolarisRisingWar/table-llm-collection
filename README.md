@@ -11,6 +11,7 @@ Collection of works related to table. This includes table question answering and
     2. (Neurocomputing) [KFEX-N : A table-text data question-answering model based on knowledge-fusion encoder and EX-N tree decoder](https://www.sciencedirect.com/science/article/abs/pii/S0925231224005666)
 3. (ICLR) OpenTab: Advancing Large Language Models as Open-domain Table Reasoners
 4. (ICLR) TabR: Tabular Deep Learning Meets Nearest Neighbors
+5. [CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs](https://arxiv.org/abs/2406.18521)
 
 # 工具包
 ## 表格识别
