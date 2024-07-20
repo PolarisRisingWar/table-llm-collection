@@ -9,6 +9,8 @@ Collection of works related to table. This includes table question answering and
     1. (LREC) [How Robust Are the QA Models for Hybrid Scientific Tabular Data? A Study Using Customized Dataset](https://aclanthology.org/2024.lrec-main.724/)：针对含科技类文字的表格
     2. (ICLR) CABINET: Content Relevance-based Noise Reduction for Table Question Answering：减少表格中的噪声
     2. (Neurocomputing) [KFEX-N : A table-text data question-answering model based on knowledge-fusion encoder and EX-N tree decoder](https://www.sciencedirect.com/science/article/abs/pii/S0925231224005666)
+3. text-to-sql
+    1. (SIGIR) [Graph Reasoning Enhanced Language Models for Text-to-SQL](https://dl.acm.org/doi/abs/10.1145/3626772.3657961)
 3. (ICLR) OpenTab: Advancing Large Language Models as Open-domain Table Reasoners
 4. (ICLR) TabR: Tabular Deep Learning Meets Nearest Neighbors
 5. [CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs](https://arxiv.org/abs/2406.18521)
