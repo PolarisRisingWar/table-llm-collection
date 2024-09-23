@@ -16,6 +16,7 @@ Collection of works related to table. This includes table question answering and
     1. (IJIES) [Enhancing Table-to-Text Generation with Numerical Reasoning Using Graph2Seq Models](https://ijies.sie.telkomuniversity.ac.id/index.php/IJIES/article/view/236)
 3. (ICLR) OpenTab: Advancing Large Language Models as Open-domain Table Reasoners
 4. (ICLR) TabR: Tabular Deep Learning Meets Nearest Neighbors
+5. (Web and Big Data) [Parallel Program Generation for Hybrid Tabular-Textual Question Answering](https://link.springer.com/chapter/10.1007/978-981-97-7232-2_9)：这篇似乎做的是“根据表格与文字进行QA”任务的优化
 5. [CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs](https://arxiv.org/abs/2406.18521)
 7. [Language Modeling on Tabular Data: A Survey of Foundations, Techniques and Evolution](https://arxiv.org/abs/2408.10548)
 9. [Benchmarking Large Language Models for Math Reasoning Tasks](https://arxiv.org/abs/2408.10839)
