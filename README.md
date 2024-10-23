@@ -10,6 +10,7 @@ Collection of works related to table. This includes table question answering and
     2. (ICLR) CABINET: Content Relevance-based Noise Reduction for Table Question Answering：减少表格中的噪声
     2. (Neurocomputing) [KFEX-N : A table-text data question-answering model based on knowledge-fusion encoder and EX-N tree decoder](https://www.sciencedirect.com/science/article/abs/pii/S0925231224005666)
     4. [TableBench: A Comprehensive and Complex Benchmark for Table Question Answering](https://arxiv.org/abs/2408.09174)
+    5. [Accurate and Regret-aware Numerical Problem Solver for Tabular Question Answering](https://arxiv.org/abs/2410.12846)
 3. text-to-sql
     1. (SIGIR) [Graph Reasoning Enhanced Language Models for Text-to-SQL](https://dl.acm.org/doi/abs/10.1145/3626772.3657961)
 4. table-to-text
